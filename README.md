@@ -127,7 +127,7 @@ A FastAPI application for managing customer complaints, validating records, and 
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [Srivalli-04](https://github.com/Srivalli-04)
-- 💼 LinkedIn: https://www.linkedin.com/in/srivallijanani/.
+- 💼 LinkedIn: [Srivalli Janani](https://www.linkedin.com/in/srivallijanani/)
 
 ---
 
