@@ -64,23 +64,48 @@
 
 ## 📂 Featured Projects
 
-### 🍫 Chocolate Sales Analytics
+### 🍫 1. Chocolate Sales Analytics
 
-📊 An interactive Power BI dashboard to analyze chocolate sales, profitability, product performance, and regional trends.
+An interactive Power BI dashboard analyzing chocolate sales, profitability, product performance, and regional sales trends.
 
 **Tools:** Power BI, Excel
 
-### 🚨 Real-Time Disaster Alert and Assisting Management System
+### 🎬 2. Movie Sales Analysis
 
-🌍 A project designed to support disaster alerts and assist with disaster management using web technologies and data-driven logic.
+A Power BI dashboard exploring movie sales performance, revenue trends, and comparisons across movies and categories.
+
+**Tools:** Power BI, Data Visualization
+
+### 🎵 3. Music Store Sales Analysis
+
+A SQL-based data analysis project exploring music sales, customer purchasing patterns, popular genres, and top-performing artists.
+
+**Tools:** SQL, MySQL
+
+### 🍽️ 4. Food Waste and Donation Management Analysis
+
+A SQL project analyzing food inventory, expiry dates, surplus quantities, and donation patterns to identify opportunities to reduce food waste and improve food redistribution.
+
+**Tools:** SQL, MySQL
+
+### 🕸️ 5. Web Scraping and Exploratory Data Analysis
+
+A Python project using the practice website Books to Scrape to collect book information, clean the extracted data, and perform exploratory data analysis to identify patterns and insights.
+
+**Tools:** Python, Web Scraping, Pandas, NumPy, Matplotlib
+
+### 🚨 6. Real-Time Disaster Alert and Assisting Management System
+
+A web-based project designed to support disaster alerts and assist disaster management through data-driven logic and interactive visualizations.
 
 **Tools:** HTML, CSS, JavaScript, FastAPI
 
-### 📝 Customer Complaint Management System
+### 📝 7. Customer Complaint Management System
 
-💻 A FastAPI application for managing customer complaints, tracking their status, and organizing complaint records.
+A FastAPI application for managing customer complaints, validating records, and tracking complaint statuses.
 
 **Tools:** Python, FastAPI, Pydantic
 
 ---
+
 
