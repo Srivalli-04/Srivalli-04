@@ -109,3 +109,34 @@ A FastAPI application for managing customer complaints, validating records, and 
 ---
 
 
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Srivalli-04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivalli-04&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [Srivalli-04](https://github.com/Srivalli-04)
+- 💼 LinkedIn: Add your LinkedIn profile URL here.
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+*Learning, analyzing, and growing one dataset at a time.* 💙
+
+</div>
+
+
