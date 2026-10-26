@@ -195,3 +195,12 @@ A FastAPI application for managing customer complaints, validating records, and 
 </div>
 
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivalli-04&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+</div>
+
+
