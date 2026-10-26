@@ -15,6 +15,36 @@
 
 
 
+---
+
+## 👩‍💻 About Me
+
+Hi! I'm Srivalli Janani, a Data Science graduate passionate about exploring data, discovering patterns, and transforming information into meaningful insights.
+
+- 🎓 B.Tech in Data Science
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🐍 Working with Python, SQL, Exploratory Data Analysis, Power BI, Excel, and Data visualization tools
+- 📈 Building interactive dashboards and analytical projects
+- 🌱 Continuously learning and improving my technical skills
+
+## 🎯 Career Focus
+
+My goal is to build a career in Data Analytics by developing practical skills in:
+
+- Data cleaning and exploratory data analysis
+- SQL queries and database management
+- Interactive dashboards using Power BI
+- Python-based data analysis and visualization
+- Business insights and data-driven decision-making
+
+## 🌟 My Vision
+
+To become a skilled data professional who transforms raw data into actionable insights, solves real-world problems, and helps businesses make informed decisions.
+
+---
+
+
+
 
 
 
@@ -105,6 +135,39 @@ A web-based project designed to support disaster alerts and assist disaster mana
 A FastAPI application for managing customer complaints, validating records, and tracking complaint statuses.
 
 **Tools:** Python, FastAPI, Pydantic
+
+---
+
+
+
+
+---
+
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  Let's connect, share ideas, and learn together!
+</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/srivallijanani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:jananisrivalli04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Srivalli-04">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://medium.com/@jananisrivalli04">
+  <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+</div>
 
 ---
 
